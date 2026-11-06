@@ -12,6 +12,7 @@ This repository contains the design for my custom printed circuit board (PCB) bu
 - **Components:** SMD resistors and capacitors
 - **Finish:** Blue solder mask with clear white silkscreen text
 - **Layout:** Optimized trace routing and clean aesthetic
+<img width="772" height="473" alt="Screenshot 2026-11-05 202638" src="https://github.com/user-attachments/assets/bbe2281f-9029-4735-8550-f9172008ade5" />
 
 ---
 
