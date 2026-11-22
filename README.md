@@ -13,6 +13,8 @@ This repository contains the design for my custom printed circuit board (PCB) bu
 - **Finish:** Blue solder mask with clear white silkscreen text
 - **Layout:** Optimized trace routing and clean aesthetic
 <img width="772" height="473" alt="Screenshot 2026-11-05 202638" src="https://github.com/user-attachments/assets/bbe2281f-9029-4735-8550-f9172008ade5" />
+<img width="1316" height="516" alt="image" src="https://github.com/user-attachments/assets/cd8643a8-d475-4d03-a294-d36967d150f6" />
+
 
 ---
 
